@@ -1,6 +1,6 @@
 {
     "window.zoomLevel": 1,
-    "editor.fontFamily": "'hack'",
+    //"editor.fontFamily": "'hack'",
     "editor.cursorBlinking": "blink",
     "editor.cursorSmoothCaretAnimation": true,
     "editor.cursorStyle": "line",
